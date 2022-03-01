@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I’m @Yulia
+- I’m Yulia
 - I’m Account Manager at Rubrain.com and Smartbrain.io
 - 👀 I’m looking to collaborate with developers on different stack of our company's projects.
 - 💞 The programmers we always need:
